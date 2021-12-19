@@ -1,0 +1,701 @@
+country_code,country_name,wb_income,wb_region,skill_group_category,skill_group_name,net_per_10K_2015,net_per_10K_2016,net_per_10K_2017,net_per_10K_2018,net_per_10K_2019,skill_median
+af,Afghanistan,Low income,South Asia,Business Skills,Procurement,-868.63,-742.97,-718.98,-436.18,-381.75,-718.98
+af,Afghanistan,Low income,South Asia,Business Skills,Employee Learning & Development,-608.65,-469.95,-526.3,-221.7,-353.67,-469.95
+af,Afghanistan,Low income,South Asia,Business Skills,Project Management,-660.54,-497.39,-518.49,-270.96,-311.75,-497.39
+af,Afghanistan,Low income,South Asia,Business Skills,Business Management,-395.66,-362.1,-388.62,-89.11,-196.7,-362.1
+af,Afghanistan,Low income,South Asia,Business Skills,Product Marketing,-179.72,-399.41,-212.77,291.91,11.52,-179.72
+al,Albania,Upper middle income,Europe & Central Asia,Business Skills,Project Management,-403.6,-366.26,-341.2,-278.84,-284.96,-341.2
+al,Albania,Upper middle income,Europe & Central Asia,Business Skills,Procurement,-414.76,-420.9,-332.71,-205.14,-270.14,-332.71
+al,Albania,Upper middle income,Europe & Central Asia,Business Skills,Business Management,-377.47,-352.28,-293.96,-212.92,-255.22,-293.96
+al,Albania,Upper middle income,Europe & Central Asia,Business Skills,Product Marketing,-270.9,-313.66,-296.43,-195.81,-228.52,-270.9
+al,Albania,Upper middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,-384.66,-365.17,-268.65,-123.07,-144.44,-268.65
+dz,Algeria,Upper middle income,Middle East & North Africa,Business Skills,Procurement,-75.49,-102.99,-250.41,-213.73,-205.99,-205.99
+dz,Algeria,Upper middle income,Middle East & North Africa,Business Skills,Project Management,-129.16,-158.82,-503.41,-198.27,-203.31,-198.27
+dz,Algeria,Upper middle income,Middle East & North Africa,Business Skills,Product Marketing,-98.63,-143.39,-172.2,-169.43,-202.92,-169.43
+dz,Algeria,Upper middle income,Middle East & North Africa,Business Skills,Business Management,-83.87,-119.25,-399.9,-159.77,-163.56,-159.77
+dz,Algeria,Upper middle income,Middle East & North Africa,Business Skills,Employee Learning & Development,-11.56,-65.12,-147.81,-96.51,-146.92,-96.51
+ao,Angola,Lower middle income,Sub-Saharan Africa ,Business Skills,Procurement,-111.09,-618.99,-517.92,-398.93,-156.47,-398.93
+ao,Angola,Lower middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,128.66,-413.63,-287.64,-247.58,-32.61,-247.58
+ao,Angola,Lower middle income,Sub-Saharan Africa ,Business Skills,Project Management,65.53,-297.61,-231.7,-164.69,-32.23,-164.69
+ao,Angola,Lower middle income,Sub-Saharan Africa ,Business Skills,Business Management,190.79,-185.23,-165.26,-80.88,-15.16,-80.88
+ao,Angola,Lower middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,580.27,-171.2,-183.07,-87.87,71.7,-87.87
+ar,Argentina,High income,Latin America & Caribbean ,Business Skills,Product Marketing,-57.97,-33.55,14.54,-2.88,-106.56,-33.55
+ar,Argentina,High income,Latin America & Caribbean ,Business Skills,Project Management,-34.32,38.07,94.94,135.19,-50.02,38.07
+ar,Argentina,High income,Latin America & Caribbean ,Business Skills,Business Management,-15.28,10.38,54.07,70.1,-49.83,10.38
+ar,Argentina,High income,Latin America & Caribbean ,Business Skills,Procurement,-29.94,6.5,36.89,63.91,-48.62,6.5
+ar,Argentina,High income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,76.13,26.9,31.18,54.23,-46.73,31.18
+am,Armenia,Upper middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,-14.58,-114.39,-286.05,-79.52,-129.33,-114.39
+am,Armenia,Upper middle income,Europe & Central Asia,Business Skills,Project Management,-234.73,-180.99,-209.58,-134.92,-124.27,-180.99
+am,Armenia,Upper middle income,Europe & Central Asia,Business Skills,Business Management,-174.8,-144.52,-223.93,-101.65,-92.81,-144.52
+am,Armenia,Upper middle income,Europe & Central Asia,Business Skills,Product Marketing,-147.98,-248.1,-276.74,-98.79,-92.08,-147.98
+am,Armenia,Upper middle income,Europe & Central Asia,Business Skills,Procurement,-182.3,-66.41,-81.53,-267.76,-38.49,-81.53
+au,Australia,High income,East Asia & Pacific,Business Skills,Employee Learning & Development,26.09,52.77,66.89,61.73,46.66,52.77
+au,Australia,High income,East Asia & Pacific,Business Skills,Procurement,-18.01,21.66,54.84,53.94,52.37,52.37
+au,Australia,High income,East Asia & Pacific,Business Skills,Product Marketing,33.79,102.56,92.31,82.05,60.95,82.05
+au,Australia,High income,East Asia & Pacific,Business Skills,Business Management,32.0,76.07,92.56,87.91,78.62,78.62
+au,Australia,High income,East Asia & Pacific,Business Skills,Project Management,30.05,83.22,114.98,110.2,94.2,94.2
+at,Austria,High income,Europe & Central Asia,Business Skills,Product Marketing,14.71,28.03,76.29,70.95,51.8,51.8
+at,Austria,High income,Europe & Central Asia,Business Skills,Project Management,30.05,43.21,48.14,60.04,90.52,48.14
+at,Austria,High income,Europe & Central Asia,Business Skills,Business Management,57.0,68.54,95.92,83.02,97.12,83.02
+at,Austria,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,135.07,123.83,118.64,122.46,105.35,122.46
+at,Austria,High income,Europe & Central Asia,Business Skills,Procurement,110.68,168.8,133.1,91.99,146.04,133.1
+az,Azerbaijan,Upper middle income,Europe & Central Asia,Business Skills,Procurement,-183.53,-355.31,-265.14,-197.12,-182.59,-197.12
+az,Azerbaijan,Upper middle income,Europe & Central Asia,Business Skills,Project Management,-219.73,-270.92,-235.26,-205.15,-157.1,-219.73
+az,Azerbaijan,Upper middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,-99.39,-212.89,-279.63,-163.95,-133.86,-163.95
+az,Azerbaijan,Upper middle income,Europe & Central Asia,Business Skills,Business Management,-111.5,-207.18,-207.3,-148.83,-97.44,-148.83
+az,Azerbaijan,Upper middle income,Europe & Central Asia,Business Skills,Product Marketing,-12.48,-237.57,-203.64,-157.67,-64.09,-157.67
+bs,"Bahamas, The",High income,Latin America & Caribbean ,Business Skills,Procurement,-169.18,-27.0,-92.83,40.75,-54.03,-54.03
+bs,"Bahamas, The",High income,Latin America & Caribbean ,Business Skills,Product Marketing,18.56,-107.34,-52.09,155.84,-39.29,-39.29
+bs,"Bahamas, The",High income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,-4.09,-80.7,-59.65,11.42,-10.74,-10.74
+bs,"Bahamas, The",High income,Latin America & Caribbean ,Business Skills,Business Management,-5.0,-57.51,-25.51,11.43,2.88,-5.0
+bs,"Bahamas, The",High income,Latin America & Caribbean ,Business Skills,Project Management,-68.47,21.8,-93.97,-44.84,30.54,-44.84
+bh,Bahrain,High income,Middle East & North Africa,Business Skills,Employee Learning & Development,194.93,-69.84,-30.68,-85.11,-172.07,-69.84
+bh,Bahrain,High income,Middle East & North Africa,Business Skills,Procurement,-35.42,85.89,86.35,174.46,-145.8,85.89
+bh,Bahrain,High income,Middle East & North Africa,Business Skills,Product Marketing,168.02,84.39,-55.59,-80.07,-105.4,-55.59
+bh,Bahrain,High income,Middle East & North Africa,Business Skills,Business Management,128.42,42.95,-15.92,58.71,-19.65,42.95
+bh,Bahrain,High income,Middle East & North Africa,Business Skills,Project Management,56.74,38.76,45.48,96.1,15.36,45.48
+bd,Bangladesh,Lower middle income,South Asia,Business Skills,Project Management,-90.97,-112.27,-90.72,-109.46,-113.1,-109.46
+bd,Bangladesh,Lower middle income,South Asia,Business Skills,Product Marketing,-70.94,-96.72,-78.75,-115.02,-100.52,-96.72
+bd,Bangladesh,Lower middle income,South Asia,Business Skills,Business Management,12.06,-65.66,-67.96,-89.88,-84.24,-67.96
+bd,Bangladesh,Lower middle income,South Asia,Business Skills,Procurement,-61.33,-78.89,-56.1,-71.06,-65.13,-65.13
+bd,Bangladesh,Lower middle income,South Asia,Business Skills,Employee Learning & Development,207.65,-15.13,-51.45,-78.29,-62.37,-51.45
+by,Belarus,Upper middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,90.19,-68.27,-502.52,-128.98,-141.88,-128.98
+by,Belarus,Upper middle income,Europe & Central Asia,Business Skills,Procurement,-167.29,-106.59,-381.58,-263.52,-107.87,-167.29
+by,Belarus,Upper middle income,Europe & Central Asia,Business Skills,Product Marketing,-157.41,-180.9,-300.09,-193.86,-103.99,-180.9
+by,Belarus,Upper middle income,Europe & Central Asia,Business Skills,Project Management,-114.31,-169.54,-224.54,-154.41,-88.14,-154.41
+by,Belarus,Upper middle income,Europe & Central Asia,Business Skills,Business Management,-71.3,-110.97,-214.55,-141.1,-80.63,-110.97
+be,Belgium,High income,Europe & Central Asia,Business Skills,Product Marketing,4.01,-10.52,12.88,23.14,31.54,12.88
+be,Belgium,High income,Europe & Central Asia,Business Skills,Procurement,-4.38,-3.11,21.15,29.48,32.31,21.15
+be,Belgium,High income,Europe & Central Asia,Business Skills,Business Management,-10.09,4.62,12.96,35.44,32.35,12.96
+be,Belgium,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-1.02,6.66,36.88,23.35,36.1,23.35
+be,Belgium,High income,Europe & Central Asia,Business Skills,Project Management,8.19,25.62,17.55,55.75,52.73,25.62
+bj,Benin,Low income,Sub-Saharan Africa ,Business Skills,Project Management,-245.64,-93.07,-142.55,-176.51,-183.33,-176.51
+bj,Benin,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,-318.85,-34.51,-66.89,-258.81,-159.62,-159.62
+bj,Benin,Low income,Sub-Saharan Africa ,Business Skills,Procurement,-158.49,31.77,41.0,-12.7,-157.63,-12.7
+bj,Benin,Low income,Sub-Saharan Africa ,Business Skills,Business Management,-282.24,-105.48,-134.17,-162.9,-152.22,-152.22
+bj,Benin,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,-79.35,-35.02,-88.74,-84.28,-146.98,-84.28
+bo,Bolivia,Lower middle income,Latin America & Caribbean ,Business Skills,Procurement,94.24,174.68,7.64,-56.06,-98.73,7.64
+bo,Bolivia,Lower middle income,Latin America & Caribbean ,Business Skills,Project Management,4.79,2.97,-21.22,-52.53,-77.51,-21.22
+bo,Bolivia,Lower middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,133.12,-38.57,-69.13,2.55,-56.28,-38.57
+bo,Bolivia,Lower middle income,Latin America & Caribbean ,Business Skills,Business Management,17.18,2.68,-27.16,-44.88,-51.5,-27.16
+bo,Bolivia,Lower middle income,Latin America & Caribbean ,Business Skills,Product Marketing,0.0,15.56,-33.66,-21.45,-46.88,-21.45
+ba,Bosnia and Herzegovina,Upper middle income,Europe & Central Asia,Business Skills,Project Management,-176.37,-180.22,-197.43,-207.33,-195.45,-195.45
+ba,Bosnia and Herzegovina,Upper middle income,Europe & Central Asia,Business Skills,Procurement,-146.3,-140.91,-181.55,-117.21,-192.14,-146.3
+ba,Bosnia and Herzegovina,Upper middle income,Europe & Central Asia,Business Skills,Product Marketing,-160.0,-155.12,-184.14,-169.49,-170.74,-169.49
+ba,Bosnia and Herzegovina,Upper middle income,Europe & Central Asia,Business Skills,Business Management,-165.21,-133.61,-180.85,-183.84,-167.68,-167.68
+ba,Bosnia and Herzegovina,Upper middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,-183.0,-162.9,-270.44,-198.18,-117.06,-183.0
+bw,Botswana,Upper middle income,Sub-Saharan Africa ,Business Skills,Procurement,-37.22,-85.79,-104.84,-32.51,-95.98,-85.79
+bw,Botswana,Upper middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,262.58,-4.03,-68.79,-68.38,-40.44,-40.44
+bw,Botswana,Upper middle income,Sub-Saharan Africa ,Business Skills,Project Management,17.94,-10.06,-42.95,-25.22,-33.52,-25.22
+bw,Botswana,Upper middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,-36.68,-60.36,-10.14,-23.93,-31.34,-31.34
+bw,Botswana,Upper middle income,Sub-Saharan Africa ,Business Skills,Business Management,82.84,-8.87,-41.0,-45.77,-14.6,-14.6
+br,Brazil,Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,-55.69,-74.73,-71.0,-83.47,-68.99,-71.0
+br,Brazil,Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,-33.53,-52.88,-60.33,-76.1,-67.4,-60.33
+br,Brazil,Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,-42.39,-63.07,-63.62,-70.06,-67.04,-63.62
+br,Brazil,Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,-17.54,-44.74,-48.56,-61.35,-53.97,-48.56
+br,Brazil,Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,91.67,-28.29,-43.02,-52.52,-45.36,-43.02
+bg,Bulgaria,Upper middle income,Europe & Central Asia,Business Skills,Procurement,-139.71,-87.53,-31.23,-28.41,-31.08,-31.23
+bg,Bulgaria,Upper middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,-182.83,-92.14,-52.12,-46.21,-11.97,-52.12
+bg,Bulgaria,Upper middle income,Europe & Central Asia,Business Skills,Project Management,-130.36,-100.09,-52.82,-2.95,-6.65,-52.82
+bg,Bulgaria,Upper middle income,Europe & Central Asia,Business Skills,Business Management,-125.81,-96.79,-47.66,-12.36,-3.46,-47.66
+bg,Bulgaria,Upper middle income,Europe & Central Asia,Business Skills,Product Marketing,-106.26,-48.27,-33.91,1.73,13.32,-33.91
+bf,Burkina Faso,Low income,Sub-Saharan Africa ,Business Skills,Procurement,-173.86,14.0,-47.11,-177.15,-204.96,-173.86
+bf,Burkina Faso,Low income,Sub-Saharan Africa ,Business Skills,Project Management,-21.48,-50.01,-73.24,-21.91,-79.18,-50.01
+bf,Burkina Faso,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,324.56,-74.76,-37.1,23.16,-58.77,-37.1
+bf,Burkina Faso,Low income,Sub-Saharan Africa ,Business Skills,Business Management,85.25,-42.48,-43.25,-1.86,-47.46,-42.48
+bf,Burkina Faso,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,0.0,50.47,-84.07,77.63,-20.69,0.0
+kh,Cambodia,Lower middle income,East Asia & Pacific,Business Skills,Product Marketing,86.09,159.52,0.0,-86.24,-56.04,0.0
+kh,Cambodia,Lower middle income,East Asia & Pacific,Business Skills,Project Management,86.08,107.93,-77.27,-68.2,-41.25,-41.25
+kh,Cambodia,Lower middle income,East Asia & Pacific,Business Skills,Employee Learning & Development,130.48,105.0,-87.32,-61.55,-27.28,-27.28
+kh,Cambodia,Lower middle income,East Asia & Pacific,Business Skills,Procurement,155.59,148.8,-112.34,11.5,0.0,11.5
+kh,Cambodia,Lower middle income,East Asia & Pacific,Business Skills,Business Management,115.38,77.53,-41.26,-27.53,3.86,3.86
+cm,Cameroon,Lower middle income,Sub-Saharan Africa ,Business Skills,Project Management,-39.15,-89.34,-80.29,-195.45,-194.55,-89.34
+cm,Cameroon,Lower middle income,Sub-Saharan Africa ,Business Skills,Business Management,-12.75,-85.31,-73.55,-153.41,-174.7,-85.31
+cm,Cameroon,Lower middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,110.72,-47.56,-37.4,-103.62,-167.79,-47.56
+cm,Cameroon,Lower middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,-85.77,-74.38,-58.66,-176.11,-164.47,-85.77
+cm,Cameroon,Lower middle income,Sub-Saharan Africa ,Business Skills,Procurement,-87.09,-169.87,-52.27,-134.45,-161.94,-134.45
+ca,Canada,High income,North America,Business Skills,Employee Learning & Development,38.69,42.38,56.16,85.68,90.58,56.16
+ca,Canada,High income,North America,Business Skills,Procurement,31.74,51.99,67.75,94.27,110.8,67.75
+ca,Canada,High income,North America,Business Skills,Business Management,46.48,67.36,86.55,135.75,147.19,86.55
+ca,Canada,High income,North America,Business Skills,Product Marketing,24.33,65.63,93.29,142.33,160.09,93.29
+ca,Canada,High income,North America,Business Skills,Project Management,46.8,77.66,100.98,150.19,164.3,100.98
+cl,Chile,High income,Latin America & Caribbean ,Business Skills,Product Marketing,63.32,34.79,91.01,74.08,45.25,63.32
+cl,Chile,High income,Latin America & Caribbean ,Business Skills,Procurement,64.4,93.15,127.28,120.44,93.32,93.32
+cl,Chile,High income,Latin America & Caribbean ,Business Skills,Business Management,100.3,96.98,148.56,131.9,94.48,100.3
+cl,Chile,High income,Latin America & Caribbean ,Business Skills,Project Management,98.56,125.65,171.22,153.79,110.71,125.65
+cl,Chile,High income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,277.52,114.24,150.2,165.5,123.74,150.2
+cn,China,Upper middle income,East Asia & Pacific,Business Skills,Procurement,-125.77,-116.4,-110.45,-74.32,-76.49,-110.45
+cn,China,Upper middle income,East Asia & Pacific,Business Skills,Product Marketing,-70.57,-63.52,-58.56,-29.13,-45.88,-58.56
+cn,China,Upper middle income,East Asia & Pacific,Business Skills,Employee Learning & Development,-4.59,-51.77,-40.57,-21.08,-32.78,-32.78
+cn,China,Upper middle income,East Asia & Pacific,Business Skills,Business Management,-58.76,-45.22,-31.1,-13.65,-23.3,-31.1
+cn,China,Upper middle income,East Asia & Pacific,Business Skills,Project Management,-83.82,-53.34,-35.05,-8.86,-21.39,-35.05
+co,Colombia,Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,8.92,-69.19,-54.32,-37.22,-78.18,-54.32
+co,Colombia,Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,23.68,-77.7,-54.85,-5.8,-65.73,-54.85
+co,Colombia,Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,13.47,-58.97,-32.75,-2.93,-52.1,-32.75
+co,Colombia,Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,41.34,-42.75,-24.79,-2.23,-44.62,-24.79
+co,Colombia,Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,259.57,6.81,-19.84,23.25,-33.68,6.81
+cd,"Congo, Dem. Rep.",Low income,Sub-Saharan Africa ,Business Skills,Procurement,152.41,-129.04,-174.03,126.27,-79.17,-79.17
+cd,"Congo, Dem. Rep.",Low income,Sub-Saharan Africa ,Business Skills,Project Management,250.08,12.89,-54.58,6.05,8.4,8.4
+cd,"Congo, Dem. Rep.",Low income,Sub-Saharan Africa ,Business Skills,Business Management,579.11,107.97,-24.73,22.61,8.97,22.61
+cd,"Congo, Dem. Rep.",Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,1536.42,274.57,-85.74,40.81,41.62,41.62
+cd,"Congo, Dem. Rep.",Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,292.74,152.19,-72.49,4.18,120.78,120.78
+cr,Costa Rica,Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,139.63,-4.98,-19.14,-48.83,-43.34,-19.14
+cr,Costa Rica,Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,31.58,8.28,-21.82,-18.45,-25.01,-18.45
+cr,Costa Rica,Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,48.34,20.97,-3.06,-9.06,-19.37,-3.06
+cr,Costa Rica,Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,20.8,33.74,-7.61,-35.94,-10.73,-7.61
+cr,Costa Rica,Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,109.02,44.06,-48.13,-26.78,-3.21,-3.21
+ci,Cote d'Ivoire,Lower middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,111.47,94.25,14.86,-2.73,-9.62,14.86
+ci,Cote d'Ivoire,Lower middle income,Sub-Saharan Africa ,Business Skills,Business Management,100.89,93.98,23.2,32.11,9.98,32.11
+ci,Cote d'Ivoire,Lower middle income,Sub-Saharan Africa ,Business Skills,Project Management,151.93,126.08,31.91,63.91,15.67,63.91
+ci,Cote d'Ivoire,Lower middle income,Sub-Saharan Africa ,Business Skills,Procurement,217.92,181.91,52.54,106.56,32.46,106.56
+ci,Cote d'Ivoire,Lower middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,134.22,149.97,75.18,67.02,33.88,75.18
+hr,Croatia,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-83.62,-67.35,-68.74,-49.91,-82.42,-68.74
+hr,Croatia,High income,Europe & Central Asia,Business Skills,Project Management,-118.06,-108.54,-84.98,-101.33,-74.76,-101.33
+hr,Croatia,High income,Europe & Central Asia,Business Skills,Business Management,-81.5,-94.56,-66.89,-84.56,-59.35,-81.5
+hr,Croatia,High income,Europe & Central Asia,Business Skills,Product Marketing,-109.0,-106.97,-78.93,-91.35,-48.98,-91.35
+hr,Croatia,High income,Europe & Central Asia,Business Skills,Procurement,-83.88,-84.85,-19.13,-46.17,-26.93,-46.17
+cu,Cuba,Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,-236.38,-97.5,0.0,-360.46,-680.89,-236.38
+cu,Cuba,Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,-523.97,-296.66,-217.53,-360.73,-500.39,-360.73
+cu,Cuba,Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,-106.21,-296.24,-27.73,-160.35,-342.41,-160.35
+cu,Cuba,Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,-107.4,-229.65,-127.77,-243.57,-338.9,-229.65
+cu,Cuba,Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,572.67,-126.17,-68.37,-227.48,-336.12,-126.17
+cy,Cyprus,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,41.74,96.35,179.07,189.99,119.67,119.67
+cy,Cyprus,High income,Europe & Central Asia,Business Skills,Product Marketing,-3.18,120.81,173.15,214.0,126.81,126.81
+cy,Cyprus,High income,Europe & Central Asia,Business Skills,Business Management,82.89,161.45,197.41,242.86,145.82,161.45
+cy,Cyprus,High income,Europe & Central Asia,Business Skills,Project Management,43.3,188.95,212.26,287.38,202.35,202.35
+cy,Cyprus,High income,Europe & Central Asia,Business Skills,Procurement,16.86,230.71,138.36,172.6,209.57,172.6
+cz,Czech Republic,High income,Europe & Central Asia,Business Skills,Procurement,11.13,41.28,80.8,43.21,11.25,41.28
+cz,Czech Republic,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,39.42,77.25,72.31,71.77,13.42,71.77
+cz,Czech Republic,High income,Europe & Central Asia,Business Skills,Project Management,11.81,53.98,79.32,63.22,33.15,53.98
+cz,Czech Republic,High income,Europe & Central Asia,Business Skills,Business Management,8.64,54.26,75.34,68.76,41.06,54.26
+cz,Czech Republic,High income,Europe & Central Asia,Business Skills,Product Marketing,-16.56,45.72,84.26,70.23,51.93,51.93
+dk,Denmark,High income,Europe & Central Asia,Business Skills,Product Marketing,9.44,16.89,14.63,8.19,11.3,11.3
+dk,Denmark,High income,Europe & Central Asia,Business Skills,Project Management,15.67,30.82,27.05,19.15,15.84,19.15
+dk,Denmark,High income,Europe & Central Asia,Business Skills,Procurement,11.05,36.0,31.13,23.22,21.06,23.22
+dk,Denmark,High income,Europe & Central Asia,Business Skills,Business Management,23.75,37.18,42.74,32.4,27.06,32.4
+dk,Denmark,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,35.15,55.01,55.31,32.47,29.03,35.15
+do,Dominican Republic,Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,-91.69,-59.37,-123.09,-116.41,-101.18,-101.18
+do,Dominican Republic,Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,-49.9,-19.01,-82.01,-80.14,-86.2,-80.14
+do,Dominican Republic,Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,-14.45,-56.75,-54.53,-84.17,-76.73,-56.75
+do,Dominican Republic,Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,126.03,-10.59,-58.38,-61.84,-67.34,-58.38
+do,Dominican Republic,Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,6.63,-10.39,-51.84,-66.6,-64.16,-51.84
+ec,Ecuador,Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,102.4,110.25,8.09,-9.1,-43.18,8.09
+ec,Ecuador,Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,80.06,1.57,-19.65,-25.5,-32.17,-19.65
+ec,Ecuador,Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,93.74,60.56,8.2,12.47,-28.75,12.47
+ec,Ecuador,Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,420.13,98.65,-5.92,14.78,-22.27,14.78
+ec,Ecuador,Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,134.54,53.98,12.34,12.75,-18.22,12.75
+eg,"Egypt, Arab Rep.",Lower middle income,Middle East & North Africa,Business Skills,Project Management,-239.66,-188.27,-119.6,-78.14,-44.57,-119.6
+eg,"Egypt, Arab Rep.",Lower middle income,Middle East & North Africa,Business Skills,Employee Learning & Development,-130.11,-185.2,-115.43,-86.14,-42.91,-115.43
+eg,"Egypt, Arab Rep.",Lower middle income,Middle East & North Africa,Business Skills,Business Management,-172.18,-187.5,-113.32,-73.1,-38.72,-113.32
+eg,"Egypt, Arab Rep.",Lower middle income,Middle East & North Africa,Business Skills,Product Marketing,-209.93,-222.79,-137.38,-79.44,-21.49,-137.38
+eg,"Egypt, Arab Rep.",Lower middle income,Middle East & North Africa,Business Skills,Procurement,-211.1,-107.27,-52.69,-5.16,-0.44,-52.69
+sv,El Salvador,Lower middle income,Latin America & Caribbean ,Business Skills,Procurement,-152.25,-67.69,-103.81,-90.73,-161.34,-103.81
+sv,El Salvador,Lower middle income,Latin America & Caribbean ,Business Skills,Product Marketing,-77.46,-135.21,-99.98,-83.49,-96.78,-96.78
+sv,El Salvador,Lower middle income,Latin America & Caribbean ,Business Skills,Project Management,-97.43,-107.2,-103.95,-88.35,-89.03,-97.43
+sv,El Salvador,Lower middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,193.79,-128.51,-83.16,-50.22,-76.5,-76.5
+sv,El Salvador,Lower middle income,Latin America & Caribbean ,Business Skills,Business Management,-62.02,-90.3,-95.73,-84.1,-67.97,-84.1
+ee,Estonia,High income,Europe & Central Asia,Business Skills,Procurement,86.04,75.67,99.34,48.4,148.23,86.04
+ee,Estonia,High income,Europe & Central Asia,Business Skills,Business Management,35.17,69.94,101.84,151.69,191.14,101.84
+ee,Estonia,High income,Europe & Central Asia,Business Skills,Project Management,16.77,63.29,72.97,135.02,199.54,72.97
+ee,Estonia,High income,Europe & Central Asia,Business Skills,Product Marketing,88.85,81.7,112.95,142.13,238.31,112.95
+ee,Estonia,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,229.97,91.5,127.99,202.82,332.64,202.82
+et,Ethiopia,Low income,Sub-Saharan Africa ,Business Skills,Procurement,85.7,-111.04,-89.93,18.14,-94.89,-89.93
+et,Ethiopia,Low income,Sub-Saharan Africa ,Business Skills,Project Management,16.38,-60.53,-98.71,-89.18,-54.83,-60.53
+et,Ethiopia,Low income,Sub-Saharan Africa ,Business Skills,Business Management,141.26,-5.88,-56.64,-59.63,-50.9,-50.9
+et,Ethiopia,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,274.49,-34.19,-98.42,-102.96,-50.6,-50.6
+et,Ethiopia,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,84.6,-72.62,-82.94,-96.13,-45.26,-72.62
+fj,Fiji,Upper middle income,East Asia & Pacific,Business Skills,Project Management,17.75,-109.24,-85.04,-157.82,-131.83,-109.24
+fj,Fiji,Upper middle income,East Asia & Pacific,Business Skills,Procurement,146.84,-176.22,-148.33,-51.1,-101.64,-101.64
+fj,Fiji,Upper middle income,East Asia & Pacific,Business Skills,Business Management,18.46,-85.57,-78.73,-96.49,-97.28,-85.57
+fj,Fiji,Upper middle income,East Asia & Pacific,Business Skills,Employee Learning & Development,21.45,-42.35,-77.23,-82.84,-41.62,-42.35
+fj,Fiji,Upper middle income,East Asia & Pacific,Business Skills,Product Marketing,68.61,-154.37,-41.61,-131.75,12.36,-41.61
+fi,Finland,High income,Europe & Central Asia,Business Skills,Procurement,-12.69,-59.75,12.84,0.0,28.36,0.0
+fi,Finland,High income,Europe & Central Asia,Business Skills,Product Marketing,-36.01,-68.47,-8.53,6.72,31.87,-8.53
+fi,Finland,High income,Europe & Central Asia,Business Skills,Project Management,-17.37,-60.1,-1.91,11.02,32.26,-1.91
+fi,Finland,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-16.86,-21.04,11.69,30.53,37.51,11.69
+fi,Finland,High income,Europe & Central Asia,Business Skills,Business Management,-18.87,-42.72,3.99,19.41,38.58,3.99
+fr,France,High income,Europe & Central Asia,Business Skills,Product Marketing,-100.24,-48.81,-2.57,8.3,9.91,-2.57
+fr,France,High income,Europe & Central Asia,Business Skills,Project Management,-77.57,-39.59,8.07,17.55,16.54,8.07
+fr,France,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-40.65,-7.4,34.04,35.66,22.8,22.8
+fr,France,High income,Europe & Central Asia,Business Skills,Business Management,-65.74,-28.42,14.46,25.86,23.39,14.46
+fr,France,High income,Europe & Central Asia,Business Skills,Procurement,-77.83,-23.99,30.93,27.76,36.96,27.76
+ga,Gabon,Upper middle income,Sub-Saharan Africa ,Business Skills,Project Management,-188.75,-118.38,-209.04,-80.99,132.32,-118.38
+ga,Gabon,Upper middle income,Sub-Saharan Africa ,Business Skills,Business Management,138.76,-11.9,-109.32,-46.43,151.62,-11.9
+ga,Gabon,Upper middle income,Sub-Saharan Africa ,Business Skills,Procurement,-635.36,-255.56,-319.62,-130.5,157.33,-255.56
+ga,Gabon,Upper middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,104.62,151.07,8.9,8.07,294.47,104.62
+ga,Gabon,Upper middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,431.54,-54.61,-39.7,163.71,431.46,163.71
+ge,Georgia,Lower middle income,Europe & Central Asia,Business Skills,Project Management,25.64,-40.0,-53.52,130.52,210.55,25.64
+ge,Georgia,Lower middle income,Europe & Central Asia,Business Skills,Product Marketing,30.46,37.87,-3.77,201.73,237.84,37.87
+ge,Georgia,Lower middle income,Europe & Central Asia,Business Skills,Procurement,79.92,-44.48,12.95,172.22,267.19,79.92
+ge,Georgia,Lower middle income,Europe & Central Asia,Business Skills,Business Management,95.51,-14.7,-35.76,146.47,278.93,95.51
+ge,Georgia,Lower middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,423.07,34.16,-135.87,340.43,835.96,340.43
+de,Germany,High income,Europe & Central Asia,Business Skills,Product Marketing,176.47,168.89,156.26,154.0,139.33,156.26
+de,Germany,High income,Europe & Central Asia,Business Skills,Project Management,136.0,149.46,145.98,152.05,140.0,145.98
+de,Germany,High income,Europe & Central Asia,Business Skills,Procurement,176.11,190.95,171.22,174.38,149.22,174.38
+de,Germany,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,122.68,156.63,175.91,188.9,162.5,162.5
+de,Germany,High income,Europe & Central Asia,Business Skills,Business Management,142.59,178.56,174.47,180.42,164.62,174.47
+gh,Ghana,Lower middle income,Sub-Saharan Africa ,Business Skills,Project Management,-8.81,-84.87,-94.57,-86.79,-117.91,-86.79
+gh,Ghana,Lower middle income,Sub-Saharan Africa ,Business Skills,Business Management,82.5,-59.52,-81.62,-80.79,-102.88,-80.79
+gh,Ghana,Lower middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,363.15,-8.92,-67.78,-53.79,-91.27,-53.79
+gh,Ghana,Lower middle income,Sub-Saharan Africa ,Business Skills,Procurement,-72.16,-92.85,-92.28,-49.21,-75.83,-75.83
+gh,Ghana,Lower middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,-14.86,-85.58,-64.65,-68.05,-67.11,-67.11
+gr,Greece,High income,Europe & Central Asia,Business Skills,Project Management,-138.51,-128.33,-111.92,-103.32,-45.49,-111.92
+gr,Greece,High income,Europe & Central Asia,Business Skills,Business Management,-104.41,-114.77,-94.73,-88.18,-35.23,-94.73
+gr,Greece,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-67.71,-110.38,-104.75,-75.24,-26.57,-75.24
+gr,Greece,High income,Europe & Central Asia,Business Skills,Procurement,-84.05,-99.92,-61.09,-47.87,-13.86,-61.09
+gr,Greece,High income,Europe & Central Asia,Business Skills,Product Marketing,-108.24,-108.21,-78.86,-55.19,-0.33,-78.86
+gt,Guatemala,Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,-41.03,-7.71,-14.59,-87.61,-64.95,-41.03
+gt,Guatemala,Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,-15.59,-35.82,-27.73,-37.36,-57.61,-35.82
+gt,Guatemala,Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,3.18,21.61,-31.3,-53.2,-56.93,-31.3
+gt,Guatemala,Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,12.35,-4.06,-13.86,-41.51,-43.48,-13.86
+gt,Guatemala,Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,-29.17,-10.13,-19.45,-33.34,-39.57,-29.17
+ht,Haiti,Low income,Latin America & Caribbean ,Business Skills,Procurement,-505.81,-431.61,-362.85,-389.79,-471.04,-431.61
+ht,Haiti,Low income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,76.69,-195.93,-194.82,-352.11,-295.61,-195.93
+ht,Haiti,Low income,Latin America & Caribbean ,Business Skills,Project Management,-225.28,-229.9,-229.03,-330.77,-292.27,-229.9
+ht,Haiti,Low income,Latin America & Caribbean ,Business Skills,Product Marketing,63.11,-137.61,-148.73,-218.75,-268.28,-148.73
+ht,Haiti,Low income,Latin America & Caribbean ,Business Skills,Business Management,-52.54,-181.08,-162.66,-272.14,-247.43,-181.08
+hn,Honduras,Lower middle income,Latin America & Caribbean ,Business Skills,Procurement,-139.11,-70.53,-118.66,-98.27,-184.71,-118.66
+hn,Honduras,Lower middle income,Latin America & Caribbean ,Business Skills,Project Management,-79.25,-42.09,-58.21,-87.29,-93.96,-79.25
+hn,Honduras,Lower middle income,Latin America & Caribbean ,Business Skills,Product Marketing,-115.79,-131.28,-86.47,-68.67,-78.64,-86.47
+hn,Honduras,Lower middle income,Latin America & Caribbean ,Business Skills,Business Management,-19.79,-55.5,-50.66,-69.46,-71.73,-55.5
+hn,Honduras,Lower middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,373.47,-78.29,-52.91,-81.99,-62.64,-62.64
+hk,"Hong Kong SAR, China",High income,East Asia & Pacific,Business Skills,Procurement,98.46,-61.98,-21.66,-22.75,-94.71,-22.75
+hk,"Hong Kong SAR, China",High income,East Asia & Pacific,Business Skills,Product Marketing,101.58,-20.67,19.39,23.89,-43.26,19.39
+hk,"Hong Kong SAR, China",High income,East Asia & Pacific,Business Skills,Employee Learning & Development,12.92,15.92,-19.19,0.0,-27.92,0.0
+hk,"Hong Kong SAR, China",High income,East Asia & Pacific,Business Skills,Project Management,125.01,33.91,43.83,72.83,-1.76,43.83
+hk,"Hong Kong SAR, China",High income,East Asia & Pacific,Business Skills,Business Management,95.64,2.16,48.02,67.49,2.51,48.02
+hu,Hungary,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-16.21,-10.82,-29.26,-13.96,-45.65,-16.21
+hu,Hungary,High income,Europe & Central Asia,Business Skills,Project Management,-136.42,-67.92,-36.45,-33.45,-25.62,-36.45
+hu,Hungary,High income,Europe & Central Asia,Business Skills,Business Management,-92.19,-63.29,-23.25,-21.52,-7.36,-23.25
+hu,Hungary,High income,Europe & Central Asia,Business Skills,Product Marketing,-89.67,-57.17,-15.48,-33.86,-6.61,-33.86
+hu,Hungary,High income,Europe & Central Asia,Business Skills,Procurement,-112.12,-45.83,-9.01,-13.43,-2.8,-13.43
+is,Iceland,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-2447.11,-459.84,-98.92,34.67,-153.55,-153.55
+is,Iceland,High income,Europe & Central Asia,Business Skills,Business Management,-762.47,-219.67,-41.85,-39.42,-71.62,-71.62
+is,Iceland,High income,Europe & Central Asia,Business Skills,Project Management,-340.03,-116.13,38.19,-23.86,-21.36,-23.86
+is,Iceland,High income,Europe & Central Asia,Business Skills,Product Marketing,-151.36,83.59,40.28,110.52,-6.45,40.28
+is,Iceland,High income,Europe & Central Asia,Business Skills,Procurement,-159.77,107.91,83.7,-29.22,48.23,48.23
+in,India,Lower middle income,South Asia,Business Skills,Project Management,-178.62,-174.56,-140.5,-154.16,-141.89,-154.16
+in,India,Lower middle income,South Asia,Business Skills,Business Management,-105.25,-138.02,-120.85,-139.58,-129.21,-129.21
+in,India,Lower middle income,South Asia,Business Skills,Product Marketing,-122.43,-117.51,-105.11,-111.44,-110.86,-111.44
+in,India,Lower middle income,South Asia,Business Skills,Employee Learning & Development,23.41,-99.94,-131.25,-117.9,-95.28,-99.94
+in,India,Lower middle income,South Asia,Business Skills,Procurement,-126.64,-99.11,-55.93,-73.39,-84.74,-84.74
+id,Indonesia,Lower middle income,East Asia & Pacific,Business Skills,Employee Learning & Development,182.3,6.12,-31.64,1.88,1.81,1.88
+id,Indonesia,Lower middle income,East Asia & Pacific,Business Skills,Procurement,-2.75,-11.7,-33.09,0.15,2.2,-2.75
+id,Indonesia,Lower middle income,East Asia & Pacific,Business Skills,Business Management,78.68,0.03,-11.35,7.0,11.06,7.0
+id,Indonesia,Lower middle income,East Asia & Pacific,Business Skills,Project Management,21.06,-1.09,-20.26,8.82,13.13,8.82
+id,Indonesia,Lower middle income,East Asia & Pacific,Business Skills,Product Marketing,26.84,-2.0,-3.75,9.91,13.5,9.91
+ir,"Iran, Islamic Rep.",Upper middle income,Middle East & North Africa,Business Skills,Procurement,-173.59,-125.79,-93.15,-209.15,-269.52,-173.59
+ir,"Iran, Islamic Rep.",Upper middle income,Middle East & North Africa,Business Skills,Product Marketing,-26.8,-90.41,-83.58,-209.16,-259.17,-90.41
+ir,"Iran, Islamic Rep.",Upper middle income,Middle East & North Africa,Business Skills,Project Management,-84.59,-121.2,-110.98,-185.22,-240.93,-121.2
+ir,"Iran, Islamic Rep.",Upper middle income,Middle East & North Africa,Business Skills,Business Management,136.26,-58.99,-69.94,-139.61,-187.65,-69.94
+ir,"Iran, Islamic Rep.",Upper middle income,Middle East & North Africa,Business Skills,Employee Learning & Development,659.91,24.03,-45.64,-116.14,-152.91,-45.64
+iq,Iraq,Upper middle income,Middle East & North Africa,Business Skills,Product Marketing,-252.95,-465.44,-403.62,-123.97,-27.9,-252.95
+iq,Iraq,Upper middle income,Middle East & North Africa,Business Skills,Business Management,95.6,-261.47,-188.16,-36.76,3.47,-36.76
+iq,Iraq,Upper middle income,Middle East & North Africa,Business Skills,Employee Learning & Development,323.65,-334.94,-214.41,-75.35,10.1,-75.35
+iq,Iraq,Upper middle income,Middle East & North Africa,Business Skills,Project Management,-22.1,-291.1,-199.87,-61.98,16.07,-61.98
+iq,Iraq,Upper middle income,Middle East & North Africa,Business Skills,Procurement,-162.15,-450.1,-288.19,-154.51,40.0,-162.15
+ie,Ireland,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,41.64,-16.69,28.07,31.98,49.87,31.98
+ie,Ireland,High income,Europe & Central Asia,Business Skills,Product Marketing,97.71,48.96,112.08,90.17,102.61,97.71
+ie,Ireland,High income,Europe & Central Asia,Business Skills,Business Management,71.31,25.39,100.58,100.92,124.33,100.58
+ie,Ireland,High income,Europe & Central Asia,Business Skills,Project Management,100.13,74.02,142.21,133.66,158.48,133.66
+ie,Ireland,High income,Europe & Central Asia,Business Skills,Procurement,114.26,148.08,174.22,174.42,177.38,174.22
+il,Israel,High income,Middle East & North Africa,Business Skills,Project Management,-26.49,-58.03,-12.14,4.75,13.68,-12.14
+il,Israel,High income,Middle East & North Africa,Business Skills,Business Management,-25.76,-65.87,-9.95,13.73,17.48,-9.95
+il,Israel,High income,Middle East & North Africa,Business Skills,Employee Learning & Development,-23.53,-77.67,0.67,0.0,24.71,0.0
+il,Israel,High income,Middle East & North Africa,Business Skills,Product Marketing,-40.28,-77.68,2.87,29.34,25.92,2.87
+il,Israel,High income,Middle East & North Africa,Business Skills,Procurement,-23.69,-8.45,10.32,15.17,34.64,10.32
+it,Italy,High income,Europe & Central Asia,Business Skills,Project Management,-70.89,-43.09,-20.06,-24.06,-17.33,-24.06
+it,Italy,High income,Europe & Central Asia,Business Skills,Product Marketing,-69.66,-37.67,-19.01,-19.73,-15.91,-19.73
+it,Italy,High income,Europe & Central Asia,Business Skills,Business Management,-55.48,-34.56,-17.16,-18.93,-12.4,-18.93
+it,Italy,High income,Europe & Central Asia,Business Skills,Procurement,-58.78,-24.01,1.81,1.29,-6.4,-6.4
+it,Italy,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-9.41,-17.24,8.53,2.53,-5.89,-5.89
+jm,Jamaica,Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,-128.65,-188.69,-124.89,-96.62,-205.97,-128.65
+jm,Jamaica,Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,-205.41,-194.69,-177.94,-201.44,-185.05,-194.69
+jm,Jamaica,Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,-103.25,-149.06,-140.27,-180.44,-181.88,-149.06
+jm,Jamaica,Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,-148.55,-164.47,-140.15,-192.23,-167.83,-164.47
+jm,Jamaica,Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,-147.3,-163.7,-108.0,-153.96,-122.51,-147.3
+jp,Japan,High income,East Asia & Pacific,Business Skills,Employee Learning & Development,-228.73,-53.37,-100.05,22.95,9.51,-53.37
+jp,Japan,High income,East Asia & Pacific,Business Skills,Product Marketing,82.91,112.2,65.58,115.92,105.42,105.42
+jp,Japan,High income,East Asia & Pacific,Business Skills,Business Management,-11.63,58.12,45.73,103.7,120.49,58.12
+jp,Japan,High income,East Asia & Pacific,Business Skills,Procurement,94.92,208.65,49.1,146.14,129.66,129.66
+jp,Japan,High income,East Asia & Pacific,Business Skills,Project Management,43.29,64.56,42.29,120.5,135.39,64.56
+jo,Jordan,Upper middle income,Middle East & North Africa,Business Skills,Project Management,-269.63,-376.34,-121.39,-52.35,-141.72,-141.72
+jo,Jordan,Upper middle income,Middle East & North Africa,Business Skills,Business Management,-222.12,-300.68,-72.75,-43.48,-109.12,-109.12
+jo,Jordan,Upper middle income,Middle East & North Africa,Business Skills,Employee Learning & Development,-181.95,-341.95,-77.95,-41.85,-71.11,-77.95
+jo,Jordan,Upper middle income,Middle East & North Africa,Business Skills,Product Marketing,-189.49,-316.72,-56.13,-4.8,-65.8,-65.8
+jo,Jordan,Upper middle income,Middle East & North Africa,Business Skills,Procurement,-241.96,-328.1,-20.72,67.33,-40.06,-40.06
+kz,Kazakhstan,Upper middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,139.11,-192.81,-314.18,-88.61,-181.03,-181.03
+kz,Kazakhstan,Upper middle income,Europe & Central Asia,Business Skills,Project Management,5.88,-120.93,-160.2,-92.51,-111.18,-111.18
+kz,Kazakhstan,Upper middle income,Europe & Central Asia,Business Skills,Procurement,-26.91,-138.94,-134.41,-147.35,-109.82,-134.41
+kz,Kazakhstan,Upper middle income,Europe & Central Asia,Business Skills,Product Marketing,104.11,-172.27,-285.35,-162.73,-98.6,-162.73
+kz,Kazakhstan,Upper middle income,Europe & Central Asia,Business Skills,Business Management,24.57,-110.66,-181.01,-100.9,-76.69,-100.9
+ke,Kenya,Lower middle income,Sub-Saharan Africa ,Business Skills,Project Management,52.98,36.84,-1.9,-21.04,-20.6,-1.9
+ke,Kenya,Lower middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,64.15,13.25,11.46,-19.01,-17.69,11.46
+ke,Kenya,Lower middle income,Sub-Saharan Africa ,Business Skills,Business Management,178.9,55.62,2.17,-12.79,-16.54,2.17
+ke,Kenya,Lower middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,402.56,98.09,-4.9,-19.53,-16.16,-4.9
+ke,Kenya,Lower middle income,Sub-Saharan Africa ,Business Skills,Procurement,23.03,29.37,33.23,-12.5,-3.92,23.03
+kr,"Korea, Rep.",High income,East Asia & Pacific,Business Skills,Employee Learning & Development,-492.49,-391.43,-313.93,-145.17,-64.19,-313.93
+kr,"Korea, Rep.",High income,East Asia & Pacific,Business Skills,Procurement,-162.79,-199.28,-160.16,-83.27,-17.91,-160.16
+kr,"Korea, Rep.",High income,East Asia & Pacific,Business Skills,Project Management,-108.74,-110.84,-96.06,-0.66,-12.37,-96.06
+kr,"Korea, Rep.",High income,East Asia & Pacific,Business Skills,Business Management,-104.31,-58.9,-28.15,34.69,2.6,-28.15
+kr,"Korea, Rep.",High income,East Asia & Pacific,Business Skills,Product Marketing,-112.78,-0.41,13.58,10.29,16.11,10.29
+kw,Kuwait,High income,Middle East & North Africa,Business Skills,Procurement,43.46,81.75,118.06,67.4,-21.09,67.4
+kw,Kuwait,High income,Middle East & North Africa,Business Skills,Employee Learning & Development,53.42,-41.17,-67.65,-21.45,8.62,-21.45
+kw,Kuwait,High income,Middle East & North Africa,Business Skills,Product Marketing,-28.25,3.36,-24.12,2.8,42.32,2.8
+kw,Kuwait,High income,Middle East & North Africa,Business Skills,Project Management,91.34,147.98,143.39,158.73,82.55,143.39
+kw,Kuwait,High income,Middle East & North Africa,Business Skills,Business Management,58.49,49.02,46.34,113.99,94.59,58.49
+lv,Latvia,High income,Europe & Central Asia,Business Skills,Business Management,-16.23,-32.4,-12.28,-53.02,-8.04,-16.23
+lv,Latvia,High income,Europe & Central Asia,Business Skills,Product Marketing,-18.67,-36.99,-27.45,-77.53,-8.02,-27.45
+lv,Latvia,High income,Europe & Central Asia,Business Skills,Project Management,-55.82,-38.84,-20.09,-54.62,-7.41,-38.84
+lv,Latvia,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,4.14,18.72,-30.26,-17.76,8.97,4.14
+lv,Latvia,High income,Europe & Central Asia,Business Skills,Procurement,-15.81,-15.33,6.78,-116.98,39.21,-15.33
+lb,Lebanon,Upper middle income,Middle East & North Africa,Business Skills,Project Management,-277.1,-149.97,-104.92,-119.48,-240.1,-149.97
+lb,Lebanon,Upper middle income,Middle East & North Africa,Business Skills,Employee Learning & Development,-194.04,-86.53,-38.24,-35.51,-200.91,-86.53
+lb,Lebanon,Upper middle income,Middle East & North Africa,Business Skills,Product Marketing,-307.79,-143.36,-47.51,-69.68,-195.36,-143.36
+lb,Lebanon,Upper middle income,Middle East & North Africa,Business Skills,Business Management,-247.41,-134.86,-82.03,-89.82,-194.13,-134.86
+lb,Lebanon,Upper middle income,Middle East & North Africa,Business Skills,Procurement,-175.5,57.4,97.89,90.25,-105.17,57.4
+ly,Libya,Upper middle income,Middle East & North Africa,Business Skills,Project Management,-530.7,-320.67,-163.8,-86.86,17.73,-163.8
+ly,Libya,Upper middle income,Middle East & North Africa,Business Skills,Employee Learning & Development,-387.07,-266.77,-232.48,-5.29,34.25,-232.48
+ly,Libya,Upper middle income,Middle East & North Africa,Business Skills,Business Management,-367.85,-243.46,-145.09,-46.15,61.54,-145.09
+ly,Libya,Upper middle income,Middle East & North Africa,Business Skills,Procurement,-820.97,-452.2,-167.45,-157.46,83.38,-167.45
+ly,Libya,Upper middle income,Middle East & North Africa,Business Skills,Product Marketing,-582.09,-547.8,-222.62,9.06,210.98,-222.62
+lt,Lithuania,High income,Europe & Central Asia,Business Skills,Procurement,-72.24,-14.6,-24.86,38.8,13.18,-14.6
+lt,Lithuania,High income,Europe & Central Asia,Business Skills,Project Management,-52.28,-70.14,-62.05,-61.17,28.7,-61.17
+lt,Lithuania,High income,Europe & Central Asia,Business Skills,Business Management,-27.44,-59.75,-53.56,-63.41,32.84,-53.56
+lt,Lithuania,High income,Europe & Central Asia,Business Skills,Product Marketing,-10.27,-54.73,-59.6,-51.01,37.68,-51.01
+lt,Lithuania,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-18.55,-14.96,-12.92,-98.92,105.53,-14.96
+lu,Luxembourg,High income,Europe & Central Asia,Business Skills,Business Management,674.65,599.75,515.64,546.26,522.81,546.26
+lu,Luxembourg,High income,Europe & Central Asia,Business Skills,Project Management,679.85,629.36,590.93,628.85,530.84,628.85
+lu,Luxembourg,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,750.46,487.87,484.35,468.77,548.38,487.87
+lu,Luxembourg,High income,Europe & Central Asia,Business Skills,Product Marketing,824.03,841.94,700.73,680.89,598.56,700.73
+lu,Luxembourg,High income,Europe & Central Asia,Business Skills,Procurement,752.05,698.49,650.65,598.48,647.0,650.65
+mk,"Macedonia, FYR",Upper middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,-239.69,-118.39,-172.82,-147.72,-172.27,-172.27
+mk,"Macedonia, FYR",Upper middle income,Europe & Central Asia,Business Skills,Project Management,-170.84,-178.38,-145.55,-208.78,-166.21,-170.84
+mk,"Macedonia, FYR",Upper middle income,Europe & Central Asia,Business Skills,Business Management,-146.7,-157.12,-145.94,-174.31,-143.07,-146.7
+mk,"Macedonia, FYR",Upper middle income,Europe & Central Asia,Business Skills,Product Marketing,-208.75,-169.37,-198.87,-142.82,-138.66,-169.37
+mk,"Macedonia, FYR",Upper middle income,Europe & Central Asia,Business Skills,Procurement,-168.67,-119.49,-122.02,-171.35,-131.46,-131.46
+mg,Madagascar,Low income,Sub-Saharan Africa ,Business Skills,Procurement,197.76,-49.21,-167.45,-134.36,-111.23,-111.23
+mg,Madagascar,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,84.46,-44.43,-89.43,42.4,-106.55,-44.43
+mg,Madagascar,Low income,Sub-Saharan Africa ,Business Skills,Business Management,86.41,-12.71,-52.36,-92.26,-102.6,-52.36
+mg,Madagascar,Low income,Sub-Saharan Africa ,Business Skills,Project Management,25.98,-29.16,-80.41,-114.69,-81.92,-80.41
+mg,Madagascar,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,292.17,-75.5,-51.93,-163.43,-71.71,-71.71
+mw,Malawi,Low income,Sub-Saharan Africa ,Business Skills,Procurement,-218.91,226.4,19.28,-55.56,-46.52,-46.52
+mw,Malawi,Low income,Sub-Saharan Africa ,Business Skills,Project Management,84.81,122.31,-10.45,-65.04,-14.2,-10.45
+mw,Malawi,Low income,Sub-Saharan Africa ,Business Skills,Business Management,290.83,134.86,12.98,-52.1,-13.3,12.98
+mw,Malawi,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,691.5,169.77,-30.88,-69.99,-10.12,-10.12
+mw,Malawi,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,92.52,35.28,5.2,-74.4,27.9,27.9
+my,Malaysia,Upper middle income,East Asia & Pacific,Business Skills,Project Management,-49.38,-105.85,-81.22,-56.56,-59.54,-59.54
+my,Malaysia,Upper middle income,East Asia & Pacific,Business Skills,Employee Learning & Development,-14.49,-79.67,-87.39,-53.1,-56.08,-56.08
+my,Malaysia,Upper middle income,East Asia & Pacific,Business Skills,Product Marketing,-65.25,-87.72,-92.49,-50.44,-55.79,-65.25
+my,Malaysia,Upper middle income,East Asia & Pacific,Business Skills,Business Management,-35.02,-91.56,-75.79,-47.09,-50.95,-50.95
+my,Malaysia,Upper middle income,East Asia & Pacific,Business Skills,Procurement,-33.53,-67.22,-60.53,-36.8,-50.24,-50.24
+ml,Mali,Low income,Sub-Saharan Africa ,Business Skills,Procurement,792.38,102.74,107.51,28.61,-48.46,102.74
+ml,Mali,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,666.61,45.36,96.24,-8.48,7.45,45.36
+ml,Mali,Low income,Sub-Saharan Africa ,Business Skills,Business Management,316.28,160.65,81.42,38.45,19.28,81.42
+ml,Mali,Low income,Sub-Saharan Africa ,Business Skills,Project Management,274.47,186.43,125.16,1.41,27.49,125.16
+ml,Mali,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,138.23,379.67,110.56,65.53,28.1,110.56
+mt,Malta,High income,Middle East & North Africa,Business Skills,Employee Learning & Development,102.39,298.3,303.11,238.94,90.38,238.94
+mt,Malta,High income,Middle East & North Africa,Business Skills,Procurement,238.98,321.34,218.04,277.67,100.3,238.98
+mt,Malta,High income,Middle East & North Africa,Business Skills,Product Marketing,390.85,321.91,336.87,326.06,161.84,326.06
+mt,Malta,High income,Middle East & North Africa,Business Skills,Business Management,225.63,307.23,233.65,261.75,184.65,233.65
+mt,Malta,High income,Middle East & North Africa,Business Skills,Project Management,295.9,386.49,266.18,328.08,288.03,295.9
+mu,Mauritius,Upper middle income,Sub-Saharan Africa ,Business Skills,Project Management,28.72,54.76,7.41,-7.44,-48.91,7.41
+mu,Mauritius,Upper middle income,Sub-Saharan Africa ,Business Skills,Business Management,28.54,-16.13,-8.3,-34.89,-38.71,-16.13
+mu,Mauritius,Upper middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,-18.41,-38.25,-11.03,-58.03,-20.07,-20.07
+mu,Mauritius,Upper middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,41.22,9.74,41.3,23.11,-18.41,23.11
+mu,Mauritius,Upper middle income,Sub-Saharan Africa ,Business Skills,Procurement,108.2,-4.62,0.0,44.97,86.81,44.97
+mx,Mexico,Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,-17.48,-22.03,-19.04,-28.69,-50.27,-22.03
+mx,Mexico,Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,-13.61,-18.87,-13.56,-23.86,-38.72,-18.87
+mx,Mexico,Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,-3.19,-8.04,-14.65,-9.91,-32.37,-9.91
+mx,Mexico,Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,6.28,-12.82,-12.4,-14.59,-30.34,-12.82
+mx,Mexico,Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,108.44,7.44,-2.13,-5.46,-22.92,-2.13
+md,Moldova,Lower middle income,Europe & Central Asia,Business Skills,Procurement,-237.55,-363.64,-604.26,-273.62,-542.35,-363.64
+md,Moldova,Lower middle income,Europe & Central Asia,Business Skills,Project Management,-501.19,-481.6,-486.01,-477.5,-421.73,-481.6
+md,Moldova,Lower middle income,Europe & Central Asia,Business Skills,Business Management,-392.07,-439.47,-405.52,-413.57,-406.56,-406.56
+md,Moldova,Lower middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,-420.55,-514.21,-597.23,-354.74,-387.32,-420.55
+md,Moldova,Lower middle income,Europe & Central Asia,Business Skills,Product Marketing,-436.07,-565.44,-558.35,-449.24,-382.98,-449.24
+mn,Mongolia,Lower middle income,East Asia & Pacific,Business Skills,Procurement,-252.67,-111.44,-190.95,-29.28,-134.64,-134.64
+mn,Mongolia,Lower middle income,East Asia & Pacific,Business Skills,Project Management,-83.03,-50.49,-81.27,-55.92,-104.88,-81.27
+mn,Mongolia,Lower middle income,East Asia & Pacific,Business Skills,Business Management,24.28,-41.3,-78.5,-34.63,-71.47,-41.3
+mn,Mongolia,Lower middle income,East Asia & Pacific,Business Skills,Product Marketing,19.27,0.0,38.52,-64.07,-48.22,0.0
+mn,Mongolia,Lower middle income,East Asia & Pacific,Business Skills,Employee Learning & Development,31.78,5.65,-164.77,-4.69,-26.0,-4.69
+ma,Morocco,Lower middle income,Middle East & North Africa,Business Skills,Project Management,-111.32,-186.0,-230.31,-270.98,-303.59,-230.31
+ma,Morocco,Lower middle income,Middle East & North Africa,Business Skills,Procurement,-63.25,-116.4,-153.61,-217.24,-246.01,-153.61
+ma,Morocco,Lower middle income,Middle East & North Africa,Business Skills,Business Management,-51.41,-152.51,-175.13,-213.49,-230.83,-175.13
+ma,Morocco,Lower middle income,Middle East & North Africa,Business Skills,Product Marketing,-80.52,-127.1,-164.97,-176.97,-204.5,-164.97
+ma,Morocco,Lower middle income,Middle East & North Africa,Business Skills,Employee Learning & Development,121.65,-84.63,-162.07,-163.01,-151.37,-151.37
+mz,Mozambique,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,218.8,-116.38,-230.72,-42.89,-86.42,-86.42
+mz,Mozambique,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,676.94,28.57,-126.53,-72.67,-31.32,-31.32
+mz,Mozambique,Low income,Sub-Saharan Africa ,Business Skills,Procurement,-28.27,-373.47,-249.11,-101.43,-27.7,-101.43
+mz,Mozambique,Low income,Sub-Saharan Africa ,Business Skills,Business Management,249.74,-67.71,-129.16,-49.62,-23.34,-49.62
+mz,Mozambique,Low income,Sub-Saharan Africa ,Business Skills,Project Management,101.52,-157.83,-151.33,-51.72,-5.06,-51.72
+mm,Myanmar,Lower middle income,East Asia & Pacific,Business Skills,Project Management,624.08,511.97,113.18,99.88,30.7,113.18
+mm,Myanmar,Lower middle income,East Asia & Pacific,Business Skills,Product Marketing,430.43,260.4,128.01,107.34,43.51,128.01
+mm,Myanmar,Lower middle income,East Asia & Pacific,Business Skills,Employee Learning & Development,705.34,258.56,-40.82,86.19,49.06,86.19
+mm,Myanmar,Lower middle income,East Asia & Pacific,Business Skills,Business Management,492.08,374.74,116.96,93.86,51.05,116.96
+mm,Myanmar,Lower middle income,East Asia & Pacific,Business Skills,Procurement,487.55,514.46,80.13,126.0,61.55,126.0
+na,Namibia,Upper middle income,Sub-Saharan Africa ,Business Skills,Procurement,50.96,39.39,-38.34,-75.95,-134.13,-38.34
+na,Namibia,Upper middle income,Sub-Saharan Africa ,Business Skills,Project Management,49.39,43.09,-32.1,-63.37,-73.41,-32.1
+na,Namibia,Upper middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,274.14,94.56,-33.88,-6.89,-49.43,-6.89
+na,Namibia,Upper middle income,Sub-Saharan Africa ,Business Skills,Business Management,123.8,92.48,-24.59,-43.84,-35.87,-24.59
+na,Namibia,Upper middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,-18.5,64.81,15.85,-58.55,-23.67,-18.5
+np,Nepal,Low income,South Asia,Business Skills,Project Management,23.39,-130.26,-210.61,-193.11,-224.56,-193.11
+np,Nepal,Low income,South Asia,Business Skills,Employee Learning & Development,293.63,-94.94,-129.57,-130.04,-166.89,-129.57
+np,Nepal,Low income,South Asia,Business Skills,Business Management,66.09,-101.05,-157.45,-171.74,-159.19,-157.45
+np,Nepal,Low income,South Asia,Business Skills,Product Marketing,-11.61,-107.57,-108.58,-42.78,-107.61,-107.57
+np,Nepal,Low income,South Asia,Business Skills,Procurement,179.32,-92.43,-73.6,37.62,-85.45,-73.6
+nl,Netherlands,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,6.94,23.57,41.9,54.95,55.32,41.9
+nl,Netherlands,High income,Europe & Central Asia,Business Skills,Procurement,13.89,31.34,36.94,43.6,58.5,36.94
+nl,Netherlands,High income,Europe & Central Asia,Business Skills,Business Management,5.94,34.73,47.54,62.39,68.15,47.54
+nl,Netherlands,High income,Europe & Central Asia,Business Skills,Project Management,12.55,45.38,59.51,76.84,90.26,59.51
+nl,Netherlands,High income,Europe & Central Asia,Business Skills,Product Marketing,15.34,58.42,78.38,102.07,95.58,78.38
+nz,New Zealand,High income,East Asia & Pacific,Business Skills,Product Marketing,83.98,135.94,121.85,102.76,81.63,102.76
+nz,New Zealand,High income,East Asia & Pacific,Business Skills,Employee Learning & Development,118.97,139.51,131.22,112.42,96.74,118.97
+nz,New Zealand,High income,East Asia & Pacific,Business Skills,Business Management,98.66,139.56,121.11,98.04,100.0,100.0
+nz,New Zealand,High income,East Asia & Pacific,Business Skills,Project Management,127.44,186.78,151.41,134.72,139.39,139.39
+nz,New Zealand,High income,East Asia & Pacific,Business Skills,Procurement,157.91,212.75,167.47,139.32,159.64,159.64
+ni,Nicaragua,Lower middle income,Latin America & Caribbean ,Business Skills,Procurement,-8.13,6.07,-26.48,-337.51,-404.58,-26.48
+ni,Nicaragua,Lower middle income,Latin America & Caribbean ,Business Skills,Product Marketing,6.68,-27.9,-46.79,-434.48,-395.61,-46.79
+ni,Nicaragua,Lower middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,186.76,-21.72,-43.12,-353.67,-309.83,-43.12
+ni,Nicaragua,Lower middle income,Latin America & Caribbean ,Business Skills,Project Management,17.82,-63.48,-45.08,-276.09,-280.39,-63.48
+ni,Nicaragua,Lower middle income,Latin America & Caribbean ,Business Skills,Business Management,40.14,-32.62,-17.48,-265.09,-252.16,-32.62
+ng,Nigeria,Lower middle income,Sub-Saharan Africa ,Business Skills,Project Management,114.47,-39.17,-102.09,-140.48,-148.6,-102.09
+ng,Nigeria,Lower middle income,Sub-Saharan Africa ,Business Skills,Business Management,382.46,4.83,-76.93,-124.16,-137.51,-76.93
+ng,Nigeria,Lower middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,75.35,-45.62,-82.26,-100.44,-136.07,-82.26
+ng,Nigeria,Lower middle income,Sub-Saharan Africa ,Business Skills,Procurement,16.91,-88.0,-129.7,-113.76,-129.28,-113.76
+ng,Nigeria,Lower middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,1071.67,89.22,-57.72,-98.46,-120.49,-57.72
+no,Norway,High income,Europe & Central Asia,Business Skills,Procurement,-9.09,-33.08,-15.32,27.0,30.85,-9.09
+no,Norway,High income,Europe & Central Asia,Business Skills,Product Marketing,36.3,32.21,32.42,40.23,53.57,36.3
+no,Norway,High income,Europe & Central Asia,Business Skills,Business Management,-28.1,-28.88,11.22,38.63,57.65,11.22
+no,Norway,High income,Europe & Central Asia,Business Skills,Project Management,13.34,-9.64,5.43,48.71,60.03,13.34
+no,Norway,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-183.02,-84.63,16.51,51.83,78.24,16.51
+om,Oman,High income,Middle East & North Africa,Business Skills,Procurement,-126.83,-142.19,-267.97,-268.27,-294.64,-267.97
+om,Oman,High income,Middle East & North Africa,Business Skills,Employee Learning & Development,126.67,-35.76,-202.63,-22.12,-128.68,-35.76
+om,Oman,High income,Middle East & North Africa,Business Skills,Product Marketing,-132.18,38.32,-143.9,-33.94,-102.29,-102.29
+om,Oman,High income,Middle East & North Africa,Business Skills,Project Management,-36.75,-104.54,-146.2,-63.77,-91.76,-91.76
+om,Oman,High income,Middle East & North Africa,Business Skills,Business Management,44.73,-46.21,-130.41,-9.78,-41.86,-41.86
+pk,Pakistan,Lower middle income,South Asia,Business Skills,Project Management,-247.82,-201.91,-114.19,-103.15,-126.87,-126.87
+pk,Pakistan,Lower middle income,South Asia,Business Skills,Business Management,-182.52,-172.18,-112.55,-91.58,-110.0,-112.55
+pk,Pakistan,Lower middle income,South Asia,Business Skills,Employee Learning & Development,-112.53,-155.71,-75.39,-54.04,-101.41,-101.41
+pk,Pakistan,Lower middle income,South Asia,Business Skills,Product Marketing,-177.61,-172.49,-116.14,-85.39,-100.02,-116.14
+pk,Pakistan,Lower middle income,South Asia,Business Skills,Procurement,-199.57,-115.85,-28.45,11.17,-44.28,-44.28
+pa,Panama,High income,Latin America & Caribbean ,Business Skills,Procurement,261.65,166.33,12.62,-128.45,-24.05,12.62
+pa,Panama,High income,Latin America & Caribbean ,Business Skills,Product Marketing,427.1,170.74,-30.95,-87.54,-23.98,-23.98
+pa,Panama,High income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,418.89,136.92,-11.49,-51.0,-21.16,-11.49
+pa,Panama,High income,Latin America & Caribbean ,Business Skills,Project Management,444.89,246.52,18.74,-83.08,-17.43,18.74
+pa,Panama,High income,Latin America & Caribbean ,Business Skills,Business Management,476.84,204.62,17.33,-56.8,-10.84,17.33
+pg,Papua New Guinea,Lower middle income,East Asia & Pacific,Business Skills,Product Marketing,35.84,70.92,-46.88,-86.34,-26.33,-26.33
+pg,Papua New Guinea,Lower middle income,East Asia & Pacific,Business Skills,Employee Learning & Development,436.75,-53.69,-49.11,-19.56,0.0,-19.56
+pg,Papua New Guinea,Lower middle income,East Asia & Pacific,Business Skills,Business Management,278.69,16.74,-25.94,2.15,8.98,8.98
+pg,Papua New Guinea,Lower middle income,East Asia & Pacific,Business Skills,Project Management,93.71,-26.42,-33.75,-13.86,14.67,-13.86
+pg,Papua New Guinea,Lower middle income,East Asia & Pacific,Business Skills,Procurement,39.31,-140.61,-92.0,-31.76,54.9,-31.76
+py,Paraguay,Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,435.36,38.9,-77.7,59.45,-34.84,38.9
+py,Paraguay,Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,57.61,4.2,31.9,55.54,1.47,31.9
+py,Paraguay,Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,94.62,28.77,19.74,44.21,6.68,28.77
+py,Paraguay,Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,84.6,161.21,5.62,147.83,27.69,84.6
+py,Paraguay,Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,49.98,39.17,33.88,46.31,33.47,39.17
+pe,Peru,Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,5.0,-58.95,-33.71,-11.83,-57.71,-33.71
+pe,Peru,Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,19.79,-57.5,-15.91,22.67,-49.31,-15.91
+pe,Peru,Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,39.03,-28.87,-0.23,39.02,-28.62,-0.23
+pe,Peru,Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,20.46,-35.64,3.61,53.98,-24.39,3.61
+pe,Peru,Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,210.28,-15.4,11.31,79.45,-11.96,11.31
+ph,Philippines,Lower middle income,East Asia & Pacific,Business Skills,Project Management,-130.11,-96.88,-79.73,-93.34,-102.34,-96.88
+ph,Philippines,Lower middle income,East Asia & Pacific,Business Skills,Business Management,-101.04,-98.29,-92.89,-101.52,-96.55,-98.29
+ph,Philippines,Lower middle income,East Asia & Pacific,Business Skills,Product Marketing,-111.82,-100.75,-86.06,-94.16,-88.43,-94.16
+ph,Philippines,Lower middle income,East Asia & Pacific,Business Skills,Employee Learning & Development,-95.71,-93.0,-84.12,-98.69,-85.28,-93.0
+ph,Philippines,Lower middle income,East Asia & Pacific,Business Skills,Procurement,-101.58,-26.51,-7.12,-13.22,-42.03,-26.51
+pl,Poland,High income,Europe & Central Asia,Business Skills,Project Management,-21.85,19.52,17.76,14.98,1.69,14.98
+pl,Poland,High income,Europe & Central Asia,Business Skills,Product Marketing,-14.79,10.81,17.08,9.25,12.13,10.81
+pl,Poland,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-40.63,4.02,31.48,24.67,12.39,12.39
+pl,Poland,High income,Europe & Central Asia,Business Skills,Procurement,15.14,31.97,35.82,18.26,23.98,23.98
+pl,Poland,High income,Europe & Central Asia,Business Skills,Business Management,-17.23,27.03,34.19,30.54,24.15,27.03
+pt,Portugal,High income,Europe & Central Asia,Business Skills,Product Marketing,-35.98,35.78,112.92,178.45,172.1,112.92
+pt,Portugal,High income,Europe & Central Asia,Business Skills,Business Management,-44.78,33.76,108.97,182.87,182.36,108.97
+pt,Portugal,High income,Europe & Central Asia,Business Skills,Project Management,-72.48,41.14,125.35,205.35,198.68,125.35
+pt,Portugal,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-56.18,69.69,155.59,217.93,231.92,155.59
+pt,Portugal,High income,Europe & Central Asia,Business Skills,Procurement,-80.17,93.69,202.47,243.19,233.08,202.47
+pr,Puerto Rico,High income,Latin America & Caribbean ,Business Skills,Project Management,-331.47,-166.18,-185.11,-165.07,-70.79,-166.18
+pr,Puerto Rico,High income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,-113.71,-172.23,-204.19,-157.44,-61.4,-157.44
+pr,Puerto Rico,High income,Latin America & Caribbean ,Business Skills,Business Management,-179.06,-128.72,-190.0,-124.92,-61.17,-128.72
+pr,Puerto Rico,High income,Latin America & Caribbean ,Business Skills,Procurement,-410.09,-208.35,-177.92,-116.13,-16.01,-177.92
+pr,Puerto Rico,High income,Latin America & Caribbean ,Business Skills,Product Marketing,-288.8,-114.41,-244.89,-122.66,-11.16,-122.66
+qa,Qatar,High income,Middle East & North Africa,Business Skills,Procurement,245.18,-39.29,-316.1,-285.93,-208.43,-208.43
+qa,Qatar,High income,Middle East & North Africa,Business Skills,Project Management,344.74,62.62,-170.42,-77.05,-17.87,-17.87
+qa,Qatar,High income,Middle East & North Africa,Business Skills,Employee Learning & Development,424.45,-26.6,-142.18,-92.12,3.92,-26.6
+qa,Qatar,High income,Middle East & North Africa,Business Skills,Business Management,395.71,63.91,-84.1,24.96,97.3,63.91
+qa,Qatar,High income,Middle East & North Africa,Business Skills,Product Marketing,314.61,68.89,-168.81,-33.6,143.7,68.89
+ro,Romania,Upper middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,-280.59,-173.25,-92.72,-111.31,-92.43,-111.31
+ro,Romania,Upper middle income,Europe & Central Asia,Business Skills,Project Management,-197.11,-138.6,-84.28,-100.64,-80.14,-100.64
+ro,Romania,Upper middle income,Europe & Central Asia,Business Skills,Business Management,-198.31,-139.61,-76.85,-88.27,-74.78,-88.27
+ro,Romania,Upper middle income,Europe & Central Asia,Business Skills,Procurement,-164.4,-154.04,-67.49,-64.85,-70.19,-70.19
+ro,Romania,Upper middle income,Europe & Central Asia,Business Skills,Product Marketing,-158.64,-123.46,-65.88,-79.79,-58.01,-79.79
+rw,Rwanda,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,62.84,-59.8,-72.16,-56.77,-17.06,-56.77
+rw,Rwanda,Low income,Sub-Saharan Africa ,Business Skills,Business Management,60.0,13.85,32.42,-36.66,36.99,32.42
+rw,Rwanda,Low income,Sub-Saharan Africa ,Business Skills,Project Management,25.22,-54.97,1.37,-24.2,46.45,1.37
+rw,Rwanda,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,147.89,110.54,-7.55,34.09,108.69,108.69
+rw,Rwanda,Low income,Sub-Saharan Africa ,Business Skills,Procurement,-20.77,-16.11,108.71,-184.9,129.18,-16.11
+sa,Saudi Arabia,High income,Middle East & North Africa,Business Skills,Procurement,231.17,-144.38,-258.41,-305.71,-150.92,-150.92
+sa,Saudi Arabia,High income,Middle East & North Africa,Business Skills,Product Marketing,234.45,88.27,-115.79,-216.17,-105.37,-105.37
+sa,Saudi Arabia,High income,Middle East & North Africa,Business Skills,Employee Learning & Development,458.13,111.83,-98.99,-143.06,-59.64,-59.64
+sa,Saudi Arabia,High income,Middle East & North Africa,Business Skills,Project Management,339.79,82.47,-62.33,-106.76,-15.49,-15.49
+sa,Saudi Arabia,High income,Middle East & North Africa,Business Skills,Business Management,391.61,147.14,-18.11,-77.03,3.18,3.18
+sn,Senegal,Low income,Sub-Saharan Africa ,Business Skills,Business Management,-10.54,-25.68,-24.72,-72.82,0.0,-24.72
+sn,Senegal,Low income,Sub-Saharan Africa ,Business Skills,Project Management,-8.22,6.85,-35.12,-76.66,5.39,-8.22
+sn,Senegal,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,127.25,-32.32,-7.13,-35.41,9.67,-7.13
+sn,Senegal,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,0.0,-6.41,-12.6,-74.29,85.97,-6.41
+sn,Senegal,Low income,Sub-Saharan Africa ,Business Skills,Procurement,31.95,52.66,157.4,-70.95,126.1,52.66
+rs,Serbia,Upper middle income,Europe & Central Asia,Business Skills,Procurement,-59.54,-43.58,-74.39,-99.0,-115.94,-74.39
+rs,Serbia,Upper middle income,Europe & Central Asia,Business Skills,Project Management,-78.29,-65.56,-83.07,-132.43,-114.23,-83.07
+rs,Serbia,Upper middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,-52.45,-91.43,-97.54,-115.07,-111.79,-97.54
+rs,Serbia,Upper middle income,Europe & Central Asia,Business Skills,Product Marketing,-48.3,-97.03,-94.25,-118.06,-104.78,-97.03
+rs,Serbia,Upper middle income,Europe & Central Asia,Business Skills,Business Management,-49.92,-67.54,-88.5,-119.25,-98.36,-88.5
+sg,Singapore,High income,East Asia & Pacific,Business Skills,Procurement,58.08,-84.35,-30.04,1.51,41.08,1.51
+sg,Singapore,High income,East Asia & Pacific,Business Skills,Employee Learning & Development,76.37,-40.23,25.87,15.64,55.8,25.87
+sg,Singapore,High income,East Asia & Pacific,Business Skills,Project Management,91.93,-19.34,10.3,79.9,100.4,79.9
+sg,Singapore,High income,East Asia & Pacific,Business Skills,Business Management,94.55,-13.88,31.32,88.71,102.97,88.71
+sg,Singapore,High income,East Asia & Pacific,Business Skills,Product Marketing,131.98,14.01,45.55,126.02,133.58,126.02
+sk,Slovak Republic,High income,Europe & Central Asia,Business Skills,Procurement,-47.19,-81.37,-48.22,24.87,5.97,-47.19
+sk,Slovak Republic,High income,Europe & Central Asia,Business Skills,Project Management,-93.72,-126.97,-70.95,25.68,7.69,-70.95
+sk,Slovak Republic,High income,Europe & Central Asia,Business Skills,Business Management,-66.37,-117.11,-64.21,2.78,29.59,-64.21
+sk,Slovak Republic,High income,Europe & Central Asia,Business Skills,Product Marketing,-93.52,-69.21,-46.31,27.18,30.43,-46.31
+sk,Slovak Republic,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-37.65,-115.24,-27.99,29.08,33.58,-27.99
+si,Slovenia,High income,Europe & Central Asia,Business Skills,Product Marketing,-63.79,-32.92,-15.69,6.84,-19.9,-19.9
+si,Slovenia,High income,Europe & Central Asia,Business Skills,Project Management,-58.63,-46.42,-32.78,-29.69,-10.89,-32.78
+si,Slovenia,High income,Europe & Central Asia,Business Skills,Business Management,-38.64,-21.62,-28.19,-6.47,-3.71,-21.62
+si,Slovenia,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-20.15,14.22,-59.38,6.03,18.62,6.03
+si,Slovenia,High income,Europe & Central Asia,Business Skills,Procurement,-66.47,8.82,-33.6,4.78,19.72,4.78
+za,South Africa,Upper middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,-63.29,-88.23,-79.93,-88.85,-125.28,-88.23
+za,South Africa,Upper middle income,Sub-Saharan Africa ,Business Skills,Procurement,-37.93,-65.39,-63.39,-76.76,-117.56,-65.39
+za,South Africa,Upper middle income,Sub-Saharan Africa ,Business Skills,Project Management,-34.02,-60.93,-67.76,-73.31,-115.21,-67.76
+za,South Africa,Upper middle income,Sub-Saharan Africa ,Business Skills,Business Management,32.1,-45.77,-60.04,-65.96,-97.04,-60.04
+za,South Africa,Upper middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,146.93,-20.46,-50.68,-57.36,-91.87,-50.68
+es,Spain,High income,Europe & Central Asia,Business Skills,Product Marketing,16.29,87.48,105.14,101.36,97.82,97.82
+es,Spain,High income,Europe & Central Asia,Business Skills,Project Management,1.17,70.52,104.02,106.91,99.46,99.46
+es,Spain,High income,Europe & Central Asia,Business Skills,Business Management,13.73,80.54,103.35,109.1,102.3,102.3
+es,Spain,High income,Europe & Central Asia,Business Skills,Procurement,24.79,99.84,120.46,118.26,114.13,114.13
+es,Spain,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-16.11,109.3,138.86,131.02,116.24,116.24
+lk,Sri Lanka,Lower middle income,South Asia,Business Skills,Project Management,-207.81,-153.94,-126.16,-171.61,-209.62,-171.61
+lk,Sri Lanka,Lower middle income,South Asia,Business Skills,Business Management,-121.71,-98.34,-85.05,-122.82,-152.77,-121.71
+lk,Sri Lanka,Lower middle income,South Asia,Business Skills,Product Marketing,-96.89,-73.84,-58.23,-111.76,-152.06,-96.89
+lk,Sri Lanka,Lower middle income,South Asia,Business Skills,Procurement,-233.62,-128.78,-80.27,-149.59,-136.49,-136.49
+lk,Sri Lanka,Lower middle income,South Asia,Business Skills,Employee Learning & Development,-10.72,-13.81,-24.43,-80.7,-117.34,-24.43
+sd,Sudan,Lower middle income,Sub-Saharan Africa ,Business Skills,Procurement,-602.82,-570.53,-161.38,-311.96,-417.29,-417.29
+sd,Sudan,Lower middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,-475.35,-332.57,-172.36,-339.97,-399.04,-339.97
+sd,Sudan,Lower middle income,Sub-Saharan Africa ,Business Skills,Project Management,-540.68,-557.05,-242.86,-299.05,-348.52,-348.52
+sd,Sudan,Lower middle income,Sub-Saharan Africa ,Business Skills,Business Management,-288.15,-436.27,-207.63,-231.15,-299.89,-288.15
+sd,Sudan,Lower middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,-11.57,-356.42,-259.98,-286.98,-265.89,-265.89
+se,Sweden,High income,Europe & Central Asia,Business Skills,Procurement,37.03,59.72,73.87,75.02,53.71,59.72
+se,Sweden,High income,Europe & Central Asia,Business Skills,Project Management,37.94,63.97,77.69,80.06,66.31,66.31
+se,Sweden,High income,Europe & Central Asia,Business Skills,Product Marketing,50.49,64.52,71.8,75.15,70.17,70.17
+se,Sweden,High income,Europe & Central Asia,Business Skills,Business Management,42.87,71.79,92.08,87.47,74.46,74.46
+se,Sweden,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,78.28,87.12,109.57,107.7,88.68,88.68
+ch,Switzerland,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,196.36,170.1,127.21,125.58,113.69,127.21
+ch,Switzerland,High income,Europe & Central Asia,Business Skills,Business Management,190.57,174.32,130.76,135.78,120.7,135.78
+ch,Switzerland,High income,Europe & Central Asia,Business Skills,Project Management,191.52,168.45,134.35,140.72,121.69,140.72
+ch,Switzerland,High income,Europe & Central Asia,Business Skills,Procurement,236.95,221.99,156.76,151.68,133.84,156.76
+ch,Switzerland,High income,Europe & Central Asia,Business Skills,Product Marketing,181.3,191.51,145.84,156.71,137.96,156.71
+sy,Syrian Arab Republic,Low income,Middle East & North Africa,Business Skills,Project Management,-696.9,-746.62,-447.57,-314.15,-361.83,-447.57
+sy,Syrian Arab Republic,Low income,Middle East & North Africa,Business Skills,Business Management,-578.29,-658.17,-437.17,-223.94,-242.43,-437.17
+sy,Syrian Arab Republic,Low income,Middle East & North Africa,Business Skills,Procurement,-687.61,-685.56,-307.93,-133.66,-219.52,-307.93
+sy,Syrian Arab Republic,Low income,Middle East & North Africa,Business Skills,Employee Learning & Development,-551.45,-719.28,-406.63,-331.49,-217.17,-406.63
+sy,Syrian Arab Republic,Low income,Middle East & North Africa,Business Skills,Product Marketing,-834.7,-900.8,-509.72,-303.07,-134.29,-509.72
+tw,"Taiwan, China",High income,East Asia & Pacific,Business Skills,Product Marketing,-81.0,-92.14,-111.13,-143.6,-68.9,-92.14
+tw,"Taiwan, China",High income,East Asia & Pacific,Business Skills,Business Management,-75.51,-55.75,-116.85,-146.73,-48.96,-75.51
+tw,"Taiwan, China",High income,East Asia & Pacific,Business Skills,Project Management,-72.09,-88.37,-139.96,-127.56,-48.41,-88.37
+tw,"Taiwan, China",High income,East Asia & Pacific,Business Skills,Employee Learning & Development,16.71,18.8,-154.65,-95.57,-37.66,-37.66
+tw,"Taiwan, China",High income,East Asia & Pacific,Business Skills,Procurement,28.49,-62.43,-103.53,-69.16,-8.75,-62.43
+tz,Tanzania,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,112.7,39.48,-130.88,-99.58,-126.42,-99.58
+tz,Tanzania,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,408.74,-10.99,-112.71,-125.74,-83.6,-83.6
+tz,Tanzania,Low income,Sub-Saharan Africa ,Business Skills,Project Management,88.16,-14.48,-106.9,-104.93,-67.25,-67.25
+tz,Tanzania,Low income,Sub-Saharan Africa ,Business Skills,Business Management,196.48,42.38,-72.04,-81.26,-57.77,-57.77
+tz,Tanzania,Low income,Sub-Saharan Africa ,Business Skills,Procurement,110.63,-154.69,-150.95,-196.39,-44.52,-150.95
+th,Thailand,Upper middle income,East Asia & Pacific,Business Skills,Employee Learning & Development,-12.98,-69.83,-83.63,-2.29,-56.45,-56.45
+th,Thailand,Upper middle income,East Asia & Pacific,Business Skills,Business Management,57.47,44.56,-22.08,32.32,-13.05,32.32
+th,Thailand,Upper middle income,East Asia & Pacific,Business Skills,Product Marketing,70.43,75.98,-24.23,32.51,-9.78,32.51
+th,Thailand,Upper middle income,East Asia & Pacific,Business Skills,Procurement,32.98,14.34,-70.55,22.98,-5.3,14.34
+th,Thailand,Upper middle income,East Asia & Pacific,Business Skills,Project Management,70.5,13.74,-39.52,37.43,-4.33,13.74
+tg,Togo,Low income,Sub-Saharan Africa ,Business Skills,Procurement,-29.99,173.32,-151.59,-234.41,-383.34,-151.59
+tg,Togo,Low income,Sub-Saharan Africa ,Business Skills,Business Management,-23.71,-49.69,-63.7,-91.78,-133.55,-63.7
+tg,Togo,Low income,Sub-Saharan Africa ,Business Skills,Project Management,77.0,-56.09,-79.96,-168.48,-124.67,-79.96
+tg,Togo,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,-55.86,-59.34,-19.02,-182.19,-105.85,-59.34
+tg,Togo,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,-16.57,-118.31,-186.63,-37.24,-67.94,-67.94
+tt,Trinidad and Tobago,High income,Latin America & Caribbean ,Business Skills,Procurement,-57.98,-103.59,-73.56,-144.39,-125.8,-103.59
+tt,Trinidad and Tobago,High income,Latin America & Caribbean ,Business Skills,Project Management,-45.44,-67.75,-66.23,-130.35,-113.44,-67.75
+tt,Trinidad and Tobago,High income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,-4.78,-74.24,-68.1,-81.04,-104.84,-74.24
+tt,Trinidad and Tobago,High income,Latin America & Caribbean ,Business Skills,Business Management,-16.65,-50.77,-61.97,-101.38,-86.82,-61.97
+tt,Trinidad and Tobago,High income,Latin America & Caribbean ,Business Skills,Product Marketing,-9.54,-29.41,-53.92,-102.61,-74.82,-53.92
+tn,Tunisia,Lower middle income,Middle East & North Africa,Business Skills,Project Management,-288.05,-310.04,-359.61,-459.12,-449.25,-359.61
+tn,Tunisia,Lower middle income,Middle East & North Africa,Business Skills,Business Management,-203.17,-236.0,-279.51,-360.96,-344.09,-279.51
+tn,Tunisia,Lower middle income,Middle East & North Africa,Business Skills,Procurement,-227.7,-158.02,-208.65,-289.65,-298.08,-227.7
+tn,Tunisia,Lower middle income,Middle East & North Africa,Business Skills,Employee Learning & Development,-150.86,-211.44,-249.81,-239.77,-275.39,-239.77
+tn,Tunisia,Lower middle income,Middle East & North Africa,Business Skills,Product Marketing,-196.96,-158.95,-231.42,-279.78,-265.65,-231.42
+tr,Turkey,Upper middle income,Europe & Central Asia,Business Skills,Project Management,-24.7,-66.21,-122.59,-113.54,-107.27,-107.27
+tr,Turkey,Upper middle income,Europe & Central Asia,Business Skills,Procurement,1.52,-43.53,-100.79,-94.6,-106.56,-94.6
+tr,Turkey,Upper middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,22.22,-61.13,-145.51,-86.77,-93.14,-86.77
+tr,Turkey,Upper middle income,Europe & Central Asia,Business Skills,Product Marketing,-32.13,-90.57,-131.94,-113.02,-87.86,-90.57
+tr,Turkey,Upper middle income,Europe & Central Asia,Business Skills,Business Management,-19.07,-71.16,-114.0,-89.25,-76.42,-76.42
+ug,Uganda,Low income,Sub-Saharan Africa ,Business Skills,Project Management,-19.22,-34.04,-39.19,-45.98,-63.69,-39.19
+ug,Uganda,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,210.83,38.7,-33.86,-57.89,-57.17,-33.86
+ug,Uganda,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,-32.14,26.65,-57.17,-35.99,-55.84,-35.99
+ug,Uganda,Low income,Sub-Saharan Africa ,Business Skills,Procurement,-29.64,-31.92,-39.48,-56.39,-53.87,-39.48
+ug,Uganda,Low income,Sub-Saharan Africa ,Business Skills,Business Management,71.92,-4.34,-40.63,-54.91,-51.37,-40.63
+ua,Ukraine,Lower middle income,Europe & Central Asia,Business Skills,Procurement,-347.48,-277.21,-177.22,-187.41,-107.13,-187.41
+ua,Ukraine,Lower middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,-195.92,-188.83,-235.01,-838.11,-106.66,-195.92
+ua,Ukraine,Lower middle income,Europe & Central Asia,Business Skills,Project Management,-318.52,-248.08,-197.07,-159.11,-106.6,-197.07
+ua,Ukraine,Lower middle income,Europe & Central Asia,Business Skills,Product Marketing,-291.15,-235.9,-172.51,-143.62,-103.24,-172.51
+ua,Ukraine,Lower middle income,Europe & Central Asia,Business Skills,Business Management,-267.36,-212.15,-159.42,-236.77,-89.34,-212.15
+ae,United Arab Emirates,High income,Middle East & North Africa,Business Skills,Employee Learning & Development,573.82,199.47,33.16,-32.54,-71.58,33.16
+ae,United Arab Emirates,High income,Middle East & North Africa,Business Skills,Procurement,274.81,134.98,-4.59,-43.39,-57.47,-4.59
+ae,United Arab Emirates,High income,Middle East & North Africa,Business Skills,Product Marketing,575.46,282.06,87.02,5.55,-29.8,87.02
+ae,United Arab Emirates,High income,Middle East & North Africa,Business Skills,Business Management,562.02,303.96,126.01,101.48,50.49,126.01
+ae,United Arab Emirates,High income,Middle East & North Africa,Business Skills,Project Management,505.7,307.96,128.62,106.13,65.54,128.62
+gb,United Kingdom,High income,Europe & Central Asia,Business Skills,Employee Learning & Development,-56.66,-12.19,-8.79,-6.11,0.04,-8.79
+gb,United Kingdom,High income,Europe & Central Asia,Business Skills,Procurement,5.7,12.07,-0.23,-2.51,2.07,2.07
+gb,United Kingdom,High income,Europe & Central Asia,Business Skills,Product Marketing,13.92,-1.96,-17.13,-3.3,5.66,-1.96
+gb,United Kingdom,High income,Europe & Central Asia,Business Skills,Project Management,8.97,7.99,-6.53,-1.36,6.15,6.15
+gb,United Kingdom,High income,Europe & Central Asia,Business Skills,Business Management,-20.06,-3.41,-10.8,-0.68,6.8,-3.41
+us,United States,High income,North America,Business Skills,Employee Learning & Development,-46.85,1.37,10.84,6.16,4.65,4.65
+us,United States,High income,North America,Business Skills,Business Management,-15.43,17.62,21.26,13.75,13.43,13.75
+us,United States,High income,North America,Business Skills,Product Marketing,18.2,26.99,25.55,14.93,14.7,18.2
+us,United States,High income,North America,Business Skills,Procurement,14.38,22.47,21.59,14.45,17.05,17.05
+us,United States,High income,North America,Business Skills,Project Management,17.91,32.1,31.92,18.05,18.35,18.35
+uy,Uruguay,High income,Latin America & Caribbean ,Business Skills,Procurement,-11.49,-18.78,-62.1,-28.05,-67.1,-28.05
+uy,Uruguay,High income,Latin America & Caribbean ,Business Skills,Product Marketing,-13.03,-28.93,-41.53,-52.04,-47.48,-41.53
+uy,Uruguay,High income,Latin America & Caribbean ,Business Skills,Business Management,46.64,15.3,0.21,-2.24,-18.87,0.21
+uy,Uruguay,High income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,277.62,42.93,-32.99,101.51,5.59,42.93
+uy,Uruguay,High income,Latin America & Caribbean ,Business Skills,Project Management,58.17,34.78,35.36,21.97,8.78,34.78
+uz,Uzbekistan,Lower middle income,Europe & Central Asia,Business Skills,Procurement,-146.27,-70.53,-317.32,256.66,-23.84,-70.53
+uz,Uzbekistan,Lower middle income,Europe & Central Asia,Business Skills,Project Management,-189.97,-219.92,-207.53,86.38,46.13,-189.97
+uz,Uzbekistan,Lower middle income,Europe & Central Asia,Business Skills,Business Management,-147.27,-75.36,-181.48,38.43,65.47,-75.36
+uz,Uzbekistan,Lower middle income,Europe & Central Asia,Business Skills,Product Marketing,-229.9,-55.49,-207.49,41.7,124.17,-55.49
+uz,Uzbekistan,Lower middle income,Europe & Central Asia,Business Skills,Employee Learning & Development,53.8,-12.57,-463.12,163.42,158.77,53.8
+ve,"Venezuela, RB",Upper middle income,Latin America & Caribbean ,Business Skills,Procurement,-889.99,-1226.0,-1312.63,-1659.62,-1218.06,-1226.0
+ve,"Venezuela, RB",Upper middle income,Latin America & Caribbean ,Business Skills,Project Management,-856.43,-1061.45,-1247.52,-1601.32,-1032.12,-1061.45
+ve,"Venezuela, RB",Upper middle income,Latin America & Caribbean ,Business Skills,Business Management,-738.13,-930.69,-1104.96,-1404.3,-893.32,-930.69
+ve,"Venezuela, RB",Upper middle income,Latin America & Caribbean ,Business Skills,Product Marketing,-994.24,-1141.45,-1242.05,-1373.54,-888.29,-1141.45
+ve,"Venezuela, RB",Upper middle income,Latin America & Caribbean ,Business Skills,Employee Learning & Development,-255.21,-658.35,-840.54,-1168.89,-797.9,-797.9
+vn,Vietnam,Lower middle income,East Asia & Pacific,Business Skills,Employee Learning & Development,60.57,-17.9,-165.43,-51.5,-28.12,-28.12
+vn,Vietnam,Lower middle income,East Asia & Pacific,Business Skills,Project Management,11.31,-24.88,-135.45,-58.73,-22.49,-24.88
+vn,Vietnam,Lower middle income,East Asia & Pacific,Business Skills,Product Marketing,18.29,-20.15,-106.44,-47.23,-10.14,-20.15
+vn,Vietnam,Lower middle income,East Asia & Pacific,Business Skills,Business Management,38.56,-38.06,-103.54,-46.3,-7.65,-38.06
+vn,Vietnam,Lower middle income,East Asia & Pacific,Business Skills,Procurement,66.71,28.9,-96.01,-8.35,-3.66,-3.66
+ps,West Bank and Gaza,Lower middle income,Middle East & North Africa,Business Skills,Employee Learning & Development,102.44,-5.85,-156.8,-227.23,-247.2,-156.8
+ps,West Bank and Gaza,Lower middle income,Middle East & North Africa,Business Skills,Product Marketing,-149.12,-83.69,-241.9,-124.77,-207.04,-149.12
+ps,West Bank and Gaza,Lower middle income,Middle East & North Africa,Business Skills,Project Management,-103.31,-138.55,-174.14,-251.3,-193.82,-174.14
+ps,West Bank and Gaza,Lower middle income,Middle East & North Africa,Business Skills,Business Management,58.81,-67.31,-166.66,-172.49,-160.72,-160.72
+ps,West Bank and Gaza,Lower middle income,Middle East & North Africa,Business Skills,Procurement,-134.06,42.74,-53.73,-66.01,-150.83,-66.01
+ye,"Yemen, Rep.",Low income,Middle East & North Africa,Business Skills,Business Management,-366.6,-288.74,-173.17,-114.57,-67.89,-173.17
+ye,"Yemen, Rep.",Low income,Middle East & North Africa,Business Skills,Project Management,-417.85,-364.36,-204.49,-101.6,-65.31,-204.49
+ye,"Yemen, Rep.",Low income,Middle East & North Africa,Business Skills,Product Marketing,-413.61,-375.41,-250.29,-103.4,-49.89,-250.29
+ye,"Yemen, Rep.",Low income,Middle East & North Africa,Business Skills,Employee Learning & Development,-403.99,-299.97,-176.58,-112.94,-38.47,-176.58
+ye,"Yemen, Rep.",Low income,Middle East & North Africa,Business Skills,Procurement,-618.61,-460.46,-235.81,-185.35,-37.04,-235.81
+zm,Zambia,Lower middle income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,759.92,180.59,2.41,1.13,-6.24,2.41
+zm,Zambia,Lower middle income,Sub-Saharan Africa ,Business Skills,Procurement,51.21,-19.95,-4.83,-24.32,-5.66,-5.66
+zm,Zambia,Lower middle income,Sub-Saharan Africa ,Business Skills,Project Management,116.22,72.16,-10.2,-3.91,24.77,24.77
+zm,Zambia,Lower middle income,Sub-Saharan Africa ,Business Skills,Business Management,308.12,122.25,13.03,13.55,33.82,33.82
+zm,Zambia,Lower middle income,Sub-Saharan Africa ,Business Skills,Product Marketing,240.61,100.88,47.71,0.0,47.79,47.79
+zw,Zimbabwe,Low income,Sub-Saharan Africa ,Business Skills,Project Management,-40.58,-101.94,-111.67,-127.61,-178.86,-111.67
+zw,Zimbabwe,Low income,Sub-Saharan Africa ,Business Skills,Product Marketing,-78.2,-99.62,-120.23,-68.0,-150.03,-99.62
+zw,Zimbabwe,Low income,Sub-Saharan Africa ,Business Skills,Business Management,125.82,-51.58,-90.42,-87.55,-147.46,-87.55
+zw,Zimbabwe,Low income,Sub-Saharan Africa ,Business Skills,Procurement,-71.84,-74.97,-72.66,-44.58,-140.35,-72.66
+zw,Zimbabwe,Low income,Sub-Saharan Africa ,Business Skills,Employee Learning & Development,546.17,45.89,-43.88,-60.3,-115.86,-43.88
